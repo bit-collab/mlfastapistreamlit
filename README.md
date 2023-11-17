@@ -6,7 +6,7 @@ Ce projet consiste en une application Streamlit intégrée à un serveur FastAPI
 
 Assurez-vous d'avoir Python installé. Clonez ensuite le dépôt et installez les dépendances :
 
-bash
+
 git clone https://github.com/votre-utilisateur/votre-projet.git
 cd votre-projet
 pip install -r requirements.txt
@@ -22,7 +22,7 @@ streamlit
 
 1. Exécutez le serveur FastAPI :
 
-   bash
+  
    uvicorn fastapi_app:app --reload
    
 
