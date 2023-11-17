@@ -10,6 +10,12 @@ bash
 git clone https://github.com/votre-utilisateur/votre-projet.git
 cd votre-projet
 pip install -r requirements.txt
+fastapi
+uvicorn
+python-multipart
+tensorflow
+pillow
+streamlit
 
 
 ## Utilisation
